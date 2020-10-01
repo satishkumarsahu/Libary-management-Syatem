@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<Document xmlns="http://www.evolus.vn/Namespace/Pencil"><Properties/><Pages><Page><Properties><Property name="name">Untitled Page</Property><Property name="id">1486603988282_6325</Property><Property name="width">977</Property><Property name="height">542</Property><Property name="dimBackground"/><Property name="transparentBackground"/><Property name="backgroundColor">#ffffff</Property></Properties><Content><g xmlns="http://www.w3.org/2000/svg" p:type="Shape" xmlns:p="http://www.evolus.vn/Namespace/Pencil" p:def="Evolus.Common:RoundedRect" id="37f5bb0fee5c4405a287972f08674432" transform="matrix(1,0,0,1,78,91)"><p:metadata><p:property name="box"><![CDATA[486,182]]></p:property><p:property name="withBlur"><![CDATA[false]]></p:property><p:property name="radius"><![CDATA[0,0]]></p:property><p:property name="textPadding"><![CDATA[0,22.75]]></p:property><p:property name="fillColor"><![CDATA[#FFFFFFFF]]></p:property><p:property name="strokeColor"><![CDATA[#1B3280FF]]></p:property><p:property name="strokeStyle"><![CDATA[2|]]></p:property><p:property name="textContent"><![CDATA[<span style="color: rgb(100, 149, 237);">Back To Login
+                </span>]]></p:property><p:property name="textFont"><![CDATA[Arial|normal|normal|21px|none]]></p:property><p:property name="textColor"><![CDATA[#6495EDFF]]></p:property><p:property name="textAlign"><![CDATA[1,1]]></p:property></p:metadata>
+
+            <defs>
+                <rect width="484" height="180" rx="0" ry="0" x="0" y="0" style="stroke-width: 2; fill: rgb(255, 255, 255); fill-opacity: 1; stroke: rgb(27, 50, 128); stroke-opacity: 1;" p:name="rrRect" id="7a13221f89674a679d0511f754ec5e19" transform="translate(1,1)"/>
+                <filter height="1.2558399" y="-0.12792" width="1.06396" x="-0.03198" p:name="shadingFilter" id="99703731618d4db99aee3f81fd25c7bf">
+                    <feGaussianBlur stdDeviation="1" in="SourceAlpha"/>
+                </filter>
+            </defs>
+            <use xlink:href="#7a13221f89674a679d0511f754ec5e19" xmlns:xlink="http://www.w3.org/1999/xlink" transform="translate(2, 2)" p:filter="url(#99703731618d4db99aee3f81fd25c7bf)" style="opacity: 0.5; visibility: hidden; display: none;" p:heavy="true" p:name="bgCopy" id="7679f81401d14c3994b2a9797df511e4"/>
+            <use xlink:href="#7a13221f89674a679d0511f754ec5e19" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+            <foreignObject x="22.75" y="79" width="440.5" height="25" p:name="text" id="c9f295089a5f4528a315546f2a36687a" style="font-family: Arial; font-size: 21px; font-weight: normal; font-style: normal; text-decoration: none; fill: rgb(100, 149, 237); fill-opacity: 1; color: rgb(100, 149, 237); opacity: 1; text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml"><span style="color: rgb(100, 149, 237);">Back To Login
+                </span></div></foreignObject>
+        </g></Content></Page></Pages></Document>

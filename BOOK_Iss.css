@@ -1,0 +1,193 @@
+body{
+padding:0;
+margin:0;
+overflow-y:scroll;
+font-family:Arial;
+font-size:18px;
+}
+#nav{
+background:#6495ed;
+}
+#nav_wrapper{
+position:relative;
+top:2px;
+left:-80px;
+width:800px;
+margin:0 auto;
+text-align:left;
+}
+#nav ul{
+  list-style-type:none;
+  padding:0;
+ margin:0;
+ position:relative;
+}
+#nav ul li{
+ display:inline-block;
+}
+#nav ul li:hover{
+background-color:#333;
+}
+#nav ul li a,visited{
+color:#ccc;
+display:block;
+padding:15px;
+text-decoration:none;
+}
+#nav ul li a:hover {
+color:#ccc;  
+text-decoration:none;
+}
+#nav ul li:hover ul{
+display:block;
+}
+#nav ul ul{
+display:none;
+position:absolute;
+background-color:#333;
+border:5px solid #222;
+border-top:0;
+margin-left:-5px;
+min-width:200px;
+}
+#nav ul ul li{
+display:block;
+}
+#nav ul ul li a,visted{
+color:#ccc;
+}
+#nav ul ul li a:hover{
+color:#099;
+}
+ 
+ 
+
+ #nav2{
+background:#6495ed;
+}
+#nav2_wrapper{
+	position:absolute;
+	top:2px;
+	left:1000px;
+width:300px;
+margin:0 auto;
+text-align:left;
+}
+#nav2 ul{
+  list-style-type:none;
+  padding:0;
+ margin:0;
+ position:relative;
+}
+#nav2 ul li{
+ display:inline-block;
+}
+#nav2 ul li:hover{
+background-color:#333;
+}
+#nav2 ul li a,visited{
+color:#ccc;
+display:block;
+padding:15px;
+text-decoration:none;
+}
+#nav2 ul li a:hover {
+color:#ccc;  
+text-decoration:none;
+}
+#nav2 ul li:hover ul{
+display:block;
+}
+#nav2 ul ul{
+display:none;
+position:absolute;
+background-color:#333;
+border:5px solid #222;
+border-top:0;
+margin-left:-5px;
+min-width:200px;
+}
+#nav2 ul ul li{
+display:block;
+}
+#nav2 ul ul li a,visted{
+color:#ccc;
+}
+#nav2 ul ul li a:hover{
+color:#099;
+}
+#cover{
+	position:absolute;
+	top:50px;
+	left:100px;
+}
+.content_wrapper{
+position:absolute;
+top:40px;
+left:20px;
+width:1380px;
+height:470px;
+font-family:"Times New Roman";
+font-size:"25";
+}
+.line{
+position:absolute;
+top:105px;
+left:370px;
+}
+.fields1{
+	position:absolute;
+	top:155px;
+	left:450px;
+}
+.fields2{
+	position:absolute;
+	top:208px;
+	left:410px;
+}
+.fields3{
+	position:absolute;
+	top:263px;
+	left:530px;
+}
+.fields4{
+	position:absolute;
+	top:200px;
+	left:650px;
+}
+
+.text_boxes{
+	position:absolute;
+	top:170px;
+	left:750px;
+}
+.submit{
+	position:absolute;
+	top:600px;
+	left:420px;
+}
+.cancel{
+	position:absolute;
+	top:600px;
+	left:700px;
+}
+.fetch{
+		position:absolute;
+	top:350px;
+	left:270px;
+}
+.find{
+		position:absolute;
+	top:170px;
+	left:855px;
+}
+.book{
+	position:absolute;
+	top:350px;
+	left:590px;
+}
+.tableres{
+	position:absolute;
+	top:400px;
+	left:500px;
+}
